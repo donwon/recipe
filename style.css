@@ -1,0 +1,35 @@
+img {
+    border: 10px solid blue;
+    box-shadow: 9px 5px 20px 10px purple;
+    transition: width 2s;
+	-webkit-transition: width 2s; /* Safari */
+
+}
+.imageNoodle{
+	text-align: center;
+}
+
+}
+h2:hover {
+    text-decoration: line-through;
+}
+img:hover {
+
+    border: 2px solid red;
+    border-radius: 20px;
+    box-shadow: 9px 5px 20px 10px greenyellow;
+    width: 25em;
+    height: 15em;
+    text-align: center;
+    /* Rotate div */
+	transform:rotate(30deg);
+	-ms-transform:rotate(30deg); /* IE 9 */
+	-webkit-transform:rotate(30deg); /* Safari and Chrome */
+
+}
+
+li {
+	font-size: 12
+	text-align:center;
+	font-family:Verdana;
+}
